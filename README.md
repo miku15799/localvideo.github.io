@@ -1,4 +1,4 @@
-# Blood-Bank-Management-System
+# Blood-Bank-Management-System Based on HTML , CSS & JAVASCRIPT and JSP SERVLET.
 take the request for blood and response under 24 hour and other section admin manage the stock of  blood &amp; store the list of donor also 
 create database bloodbank;
 
